@@ -1,6 +1,6 @@
 rem set variables
 set local_directory=C:\app\%USERNAME%\product\11.2.0\admin\orcl\dpdump\SQLPlusScripts
-set database_backup=local1_fulldpexp.dmp
+set database_backup=BACKUP_FILE.dmp
 
 echo Database backup name used: %database_backup%
 
